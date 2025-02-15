@@ -28,7 +28,7 @@ export default function HeroHome() {
                 <div data-aos="fade-up" data-aos-delay={400}>
                   <a
                     className="btn group mb-4 w-full bg-linear-to-t from-indigo-600 to-indigo-500 text-white shadow-lg hover:opacity-80 sm:mb-0 sm:w-auto"
-                    href="https://your-download-link.com"
+                    href="https://download1334.mediafire.com/16xw9gh5y7igvBb5yQtixY71B8V_J1OB2qcvFijHP6Y5KgirV5vwacwoqOs-9Cu_KX5YT5c-NOM_LdLRhOitiNLpokx0jWxSzUYY65zXNCztuySyptZzulcVmGqW8_IRpbsE7lKIgfr39TjAAGW9NwEXrfbURqh5Zc2_6R3tV3_ULO0/yx457g2smnazic4/SCH-Secure-System.tar.gz"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -43,7 +43,7 @@ export default function HeroHome() {
                 <div data-aos="fade-up" data-aos-delay={600}>
                   <a
                     className="btn w-full bg-gray-800 text-gray-300 shadow-md hover:bg-gray-700 sm:ml-4 sm:w-auto"
-                    href="https://your-installation-tutorial-link.com"
+                    href="https://sch-instsallation-guide.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
