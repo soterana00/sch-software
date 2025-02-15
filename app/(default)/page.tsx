@@ -13,6 +13,10 @@ import Cta from "@/components/cta";
 export default function Home() {
   return (
     <>
+      <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1720344232804931"
+     crossorigin="anonymous"></script>
+      </head>
       <PageIllustration />
       <Hero />
       <Workflows />
