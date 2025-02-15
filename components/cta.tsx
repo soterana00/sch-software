@@ -30,7 +30,7 @@ export default function Cta() {
               <div data-aos="fade-up" data-aos-delay={400}>
                 <a
                   className="btn group mb-4 w-full bg-linear-to-t from-indigo-600 to-indigo-500 bg-[length:100%_100%] bg-[bottom] text-white shadow-[inset_0px_1px_0px_0px_--theme(--color-white/.16)] hover:bg-[length:100%_150%] sm:mb-0 sm:w-auto"
-                  href="https://your-download-link.com"
+                  href="https://download1334.mediafire.com/16xw9gh5y7igvBb5yQtixY71B8V_J1OB2qcvFijHP6Y5KgirV5vwacwoqOs-9Cu_KX5YT5c-NOM_LdLRhOitiNLpokx0jWxSzUYY65zXNCztuySyptZzulcVmGqW8_IRpbsE7lKIgfr39TjAAGW9NwEXrfbURqh5Zc2_6R3tV3_ULO0/yx457g2smnazic4/SCH-Secure-System.tar.gz"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -47,7 +47,7 @@ export default function Cta() {
               <div data-aos="fade-up" data-aos-delay={600}>
                 <a
                   className="btn relative w-full bg-linear-to-b from-gray-800 to-gray-800/60 bg-[length:100%_100%] bg-[bottom] text-gray-300 before:pointer-events-none before:absolute before:inset-0 before:rounded-[inherit] before:border before:border-transparent before:[background:linear-gradient(to_right,var(--color-gray-800),var(--color-gray-700),var(--color-gray-800))_border-box] before:[mask-composite:exclude_!important] before:[mask:linear-gradient(white_0_0)_padding-box,_linear-gradient(white_0_0)] hover:bg-[length:100%_150%] sm:ml-4 sm:w-auto"
-                  href="https://your-installation-guide.com"
+                  href="https://sch-instsallation-guide.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
